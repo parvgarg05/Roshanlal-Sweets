@@ -624,7 +624,7 @@ For issues, questions, or suggestions:
 
 <div align="center">
 
-**Made with ❤️ by Roshanlal & Sons**
+**Made with ❤️ by Parv**
 
 © 2025 All rights reserved.
 
